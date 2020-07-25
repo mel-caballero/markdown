@@ -4,10 +4,11 @@
 
   - [Style](#Style)  
   - [Headings](#Headings)  
-  - [Links](Links)  
-  - [Code](Code)  
+  - [Links](#Links)  
+  - [Code](#Code)  
   - [List](#List)  
   - [Horizontal Rule](#Horizontal-Rule)  
+  - [Tables](#Tables)  
   - [Strikethrough](#Strikethrough)
   - [Task Lists](#Task-Lists)
   - [Resources](#Resources)  
