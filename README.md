@@ -8,7 +8,6 @@
   - [Code](#Code)  
   - [List](#List)  
   - [Horizontal Rule](#Horizontal-Rule)  
-  - [Tables](#Tables)  
   - [Strikethrough](#Strikethrough)
   - [Task Lists](#Task-Lists)
   - [Resources](#Resources)  
@@ -20,6 +19,8 @@
   | `*italic*` | `**bold**` |  `<u>underline</u>`|
   | :---:| :---:| :---:|
   | *italic* | **bold** | <u>underline</u> |  
+  
+[- Back to Top ⇧ -](#Table-of-content)  
 
 ---
 
@@ -41,6 +42,8 @@
   ##### Heading 5  
   ###### Heading 6   
 
+[- Back to Top ⇧ -](#Table-of-content)  
+
 ---
 
 ## Links
@@ -48,6 +51,8 @@
   | `[Link](http://mybackpack.es/)` | `![Image](http://mybackpack.es/)` |  `<a href="https://simpleicon.com/wp-content/uploads/star.png"><img src="https://simpleicon.com/wp-content/uploads/star.png" alt="Star icon" width=20> Star icon</a>` |
   | :---:| :---:| :---:|
   | [Link](http://mybackpack.es/) | ![Image](https://simpleicon.com/wp-content/uploads/star.png) | <a href="http://mybackpack.es/"><img src="https://simpleicon.com/wp-content/uploads/star.png" alt="Star icon" width=40> Star</a> |  
+
+[- Back to Top ⇧ -](#Table-of-content)  
 
 ---
 
@@ -65,6 +70,8 @@
     line 2  
     line 3
     ```
+
+[- Back to Top ⇧ -](#Table-of-content)  
 
 ---
 
@@ -86,12 +93,16 @@
     - element 5  
       * element 6  
 
+[- Back to Top ⇧ -](#Table-of-content)  
+
 ---
 
 
 ## Horizontal Rule
 
   ` --- `  or  ` *** `   
+
+[- Back to Top ⇧ -](#Table-of-content)  
 
 ---
 
@@ -140,6 +151,8 @@
   * Images  
   * HTML tags.
 
+[- Back to Top ⇧ -](#Table-of-content)  
+
 ---
 
 ## Strikethrough
@@ -147,6 +160,8 @@
   ` ~~Cupcake ipsum dolor.~~ Tart pie lollipop sweet roll sugar plum. `
 
   ~~Cupcake ipsum dolor.~~ Tart pie lollipop sweet roll sugar plum.
+
+[- Back to Top ⇧ -](#Table-of-content)  
 
 ---
 
@@ -162,10 +177,14 @@
   - [ ] Element 2  
   - [ ] Element 3  
 
+[- Back to Top ⇧ -](#Table-of-content)  
+
 ---
 
 ## Resources
 
   - [CommonMark - Help](https://commonmark.org/help/)  
   - [Markdown quick reference cheat sheet](https://wordpress.com/support/markdown-quick-reference/)  
-  - [Markdown Guide - Extended Syntax](https://www.markdownguide.org/extended-syntax/)
+  - [Markdown Guide - Extended Syntax](https://www.markdownguide.org/extended-syntax/)  
+
+[- Back to Top ⇧ -](#Table-of-content)  
